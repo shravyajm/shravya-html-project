@@ -1,0 +1,170 @@
+#nav{
+    height: 75px;
+    width: 100%;
+    color: indigo;
+    display: flex;
+    justify-content: space-around;
+    /* background-color: pink; */
+}
+#nav1{
+    justify-content: flex-start;
+}
+#nav2{
+    display: flex;
+    width: 600px;
+    justify-content: space-around;
+}
+#nav3{
+    justify-content: flex-end;
+    /* border-radius: 50px;
+    height: 10px;
+    width: 10px; */
+}
+#body{
+    margin-top: 100px;
+    margin-left: 100px;
+    display: flex;
+    justify-content: space-between;
+    color: indigo;
+    font-size: 20px;
+    
+}
+#image{
+    background-image: url("https://mobirise.com/extensions/offerm5/offer-preparation/assets/images/03.jpg");
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 400px;
+    background-size: 100% 100vh;
+    margin-right: 100px;
+}
+#color{
+    background-color: lightpink;
+}
+#body1{
+    margin-left: 150px;
+    color: indigo;
+}
+#body2{
+    
+    /* margin-left: 150px; */
+    background-image: url("https://mobirise.com/extensions/offerm5/offer-preparation/assets/images/01.jpg");
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 400px;
+    background-size: 100% 100vh;
+    /* border-bottom: 600px; */
+}
+#display2{
+    display: flex;
+    justify-content: space-around
+}
+#body3{
+    margin-left: 150px;
+    color: indigo;
+    font-size: 20px;
+}
+li>h3::marker{
+    font-size: 30px;
+}
+#body4{
+    background-image: url("https://mobirise.com/extensions/offerm5/offer-preparation/assets/images/04.jpg");
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 700px;
+    background-size: 100% 100vh;
+    /* justify-content: space-between; */
+}
+#display3{
+    display: flex;
+    justify-content: space-between;
+    height: 300px;
+    width: 100%;
+    background-size: 100% 100vh;
+}
+#buttons{
+    color: aliceblue;
+    background-color: pink;
+}
+#last{
+    margin-left: 150px;
+}
+#lastnav{
+    display: flex;
+justify-content: space-between;
+width: 89%;
+}
+#last1{
+    margin-left: 500px;
+}
+#font{
+    font-size: 20px;
+}
+ol>li::marker{
+    font-size: 60px;
+}
+#back{
+    background-color: pink;
+    display: flex;
+    width: 100%;
+    height: 700px;
+    justify-content: space-between;
+    /
+}
+#back1{
+    /* background-color: lightpink; */
+    background-image: url("https://mobirise.com/extensions/offerm5/offer-preparation/assets/images/02.jpg");
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 600px;
+    margin-left: 150px;
+}
+#flex{
+    /* display: flex;
+    width: 100%;
+    justify-content: space-between; */
+    margin-right: 100px;
+}
+#video{
+    margin-left: 470px;
+    
+}
+#videoimg{
+    background-image: url("https://mobirise.com/extensions/offerm5/offer-preparation/assets/images/background2.jpg");
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 1000px;
+    margin-left: -100px;
+    background-size: 100vh 100vd;
+}
+#lastcont{
+    margin-left: 600px;
+    color: indigo;
+}
+#last{
+    border: 20px;
+}
+#br1{
+    margin-left: -200px;
+    height: 70px;
+    width: 700px;
+    background-color: hotpink;
+    color: pink;
+    border-radius: 10px;
+}
+#br2{
+    margin-left: -200px;
+    height: 70px;
+    width: 700px;
+    background-color: crimson;
+    color: pink;
+    border-radius: 10px;
+}
+#br3{
+    margin-left: -200px;
+    height: 70px;
+    width: 700px;
+    background-color: deeppink;
+    color: pink;
+    border-radius: 10px;
+}
+
